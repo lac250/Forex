@@ -114,7 +114,7 @@ const BookMockup = ({ className = "" }: { className?: string }) => (
 );
 
 export default function App() {
-  const whatsappLink = "https://wa.me/258840000000?text=Olá! Quero o Manual Forex Moçambique agora.";
+  const whatsappLink = "https://wa.me/258874489268?text=Olá! Quero o Manual Forex Moçambique agora.";
 
   return (
     <div className="min-h-screen bg-[#0A0A0A] selection:bg-gold selection:text-black">
@@ -378,7 +378,7 @@ export default function App() {
               <a href="#" className="hover:text-gold">Contacto</a>
             </div>
             <p className="mt-8 text-[10px] text-white/20 uppercase tracking-widest">
-              © 2024 Manual Forex Moçambique. Todos os direitos reservados.
+              © 2026 CHIWONE MULTMIDIA. Todos os direitos reservados.
             </p>
           </div>
         </div>
